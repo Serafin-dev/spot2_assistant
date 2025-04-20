@@ -1,0 +1,6 @@
+-c constraints.txt
+
+google-adk
+pydantic
+python-dotenv
+streamlit

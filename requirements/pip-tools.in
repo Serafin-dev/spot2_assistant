@@ -1,0 +1,7 @@
+# Herramientas para gestión de dependencias
+-c constraints.txt
+
+pip
+setuptools
+wheel
+pip-tools

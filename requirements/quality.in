@@ -1,0 +1,11 @@
+# Quality requirements.
+
+-c constraints.txt
+
+-r base.in
+
+pylint                          # https://github.com/pylint-dev/pylint
+black                           # https://github.com/psf/black
+isort                           # https://github.com/PyCQA/isort
+mypy                            # https://github.com/python/mypy
+flake8                          # https://github.com/PyCQA/flake8

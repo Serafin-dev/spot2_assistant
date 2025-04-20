@@ -1,0 +1,7 @@
+# Dependencias para pruebas
+-c constraints.txt
+
+-r base.in
+
+pytest
+pytest-asyncio

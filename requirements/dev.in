@@ -1,0 +1,9 @@
+# Development requirements.
+
+-c constraints.txt
+
+-r base.in
+-r test.in
+-r quality.in
+
+bump-my-version                 # https://github.com/callowayproject/bump-my-version
